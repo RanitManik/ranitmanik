@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀I’m a designer and developer <br>🔭 I’m currently working on a Website Project<br>🌱 I’m currently learning Web Development, Ethical Hacking<br>
+👀 I’m a designer and developer <br>🔭 I’m currently working on a Website Project<br>🌱 I’m currently learning Web Development, Ethical Hacking<br>
 
 
 ## 🌐 Socials:
