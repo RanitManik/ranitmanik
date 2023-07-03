@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ranit Manik</h1>
 <h3 align="center">A passionate designer and developer from India</h3>
-
+<br>
 
 # 💫 About Me:
 👀 I’m a designer and developer <br>🔭 I’m currently working on a Website Project<br>🌱 I’m currently learning Web Development, Ethical Hacking<br>
