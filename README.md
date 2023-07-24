@@ -15,7 +15,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=RanitManik&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats-sigma-five.herokuapp.com/?user=RanitManik&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RanitManik&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RanitManik&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RanitManik&theme=radical&no-frame=false&no-bg=false&margin-w=4)
