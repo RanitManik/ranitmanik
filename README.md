@@ -2,8 +2,10 @@
 <h3 align="center">A passionate designer and developer from India</h3>
 <br>
 
- <img height=225 align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/b9c4a8df-9003-4440-b0a6-ae5463936375" />
- <img height=225 align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/20ba2f39-13d4-452d-963b-195b98312199" />
+<img height=115 align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/20ba2f39-13d4-452d-963b-195b98312199" />
+<img height=115 align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/bc6f9f65-5337-4466-8510-32235815e439" />
+<img height=115 align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/bc6f9f65-5337-4466-8510-32235815e439" />
+<img height=115 align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/bc6f9f65-5337-4466-8510-32235815e439" />
 
 # 🧑‍💻wakatime stats:
 [![Ranit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ranitmanik&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
