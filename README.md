@@ -2,7 +2,10 @@
 <h3 align="center">A passionate designer and developer from India</h3>
 <br>
 
-## 💫  wakatime stats:
+ <img height=220 align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/b9c4a8df-9003-4440-b0a6-ae5463936375" />
+ <img height=220 align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/20ba2f39-13d4-452d-963b-195b98312199" />
+
+# 🧑‍💻wakatime stats:
 [![Ranit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ranitmanik&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 # 💻 Tech Stack:
@@ -16,13 +19,13 @@
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranitmanik&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RanitManik&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RanitManik&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
