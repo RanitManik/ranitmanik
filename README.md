@@ -1,6 +1,5 @@
-<img  height="330px" align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/344a5744-ebfc-4dd7-8bdf-69693d573a56"/>
-<h1>Hi 👋, I'm Ranit Manik</h1>
-<h3>A passionate designer and developer from India</h3>
+<h1 align="center">Hi 👋, I'm Ranit Manik</h1>
+<h3 align="center">A passionate designer and developer from India</h3>
 <br>
 
 <!--| <img height="330px" align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/344a5744-ebfc-4dd7-8bdf-69693d573a56"/> | 
