@@ -1,6 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ranit Manik</h1>
-<h3 align="center">A passionate designer and developer from India</h3>
+<img  height="330px" align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/344a5744-ebfc-4dd7-8bdf-69693d573a56"/>
+<h1>Hi 👋, I'm Ranit Manik</h1>
+<h3>A passionate designer and developer from India</h3>
 <br>
+
+<!--| <img height="330px" align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/344a5744-ebfc-4dd7-8bdf-69693d573a56"/> | 
+| --- |
+| **Hi 👋, I'm Ranit Manik**<br>A passionate designer and developer from India |-->
 
 <img height=117 align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/20ba2f39-13d4-452d-963b-195b98312199" />
 <img height=117 align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/bc6f9f65-5337-4466-8510-32235815e439" />
@@ -24,11 +29,9 @@
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RanitManik&limit=5&theme=radical&combine_all_yearly_contributions=true)
-<!--<img align="right" height="245px" src="https://github.com/RanitManik/ranitmanik/assets/138437760/84915853-ed1c-4d80-8337-259bd49f3049"/>-->
 
 # 🧑‍💻wakatime stats:
 [![Ranit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ranitmanik&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<!--<img align="top" height="250px" src="https://github.com/RanitManik/ranitmanik/assets/138437760/40d6cc9c-0b2f-4c96-89c1-1d8998378247"/>-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RanitManik&icon=0&color=0)](https://visitcount.itsvg.in)
