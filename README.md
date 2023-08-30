@@ -2,10 +2,10 @@
 <h3 align="center">A passionate designer and developer from India</h3>
 <br>
 
-<img height=117 align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/20ba2f39-13d4-452d-963b-195b98312199" />
-<img height=117 align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/bc6f9f65-5337-4466-8510-32235815e439" />
-<img height=117 align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/bc6f9f65-5337-4466-8510-32235815e439" />
-<img height=117 align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/bc6f9f65-5337-4466-8510-32235815e439" />
+<img height=119 align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/20ba2f39-13d4-452d-963b-195b98312199" />
+<img height=119 align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/bc6f9f65-5337-4466-8510-32235815e439" />
+<img height=119 align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/bc6f9f65-5337-4466-8510-32235815e439" />
+<img height=119 align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/bc6f9f65-5337-4466-8510-32235815e439" />
 
 # 🧑‍💻wakatime stats:
 [![Ranit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ranitmanik&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -15,10 +15,10 @@
 
 # 📊 GitHub Stats:
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=185 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RanitManik&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
+  <img height=187 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RanitManik&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=185 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranitmanik&layout=compact&langs_count=8&card_width=320&theme=radical" />
+  <img height=187 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranitmanik&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 
 # 🏆 GitHub Trophies
