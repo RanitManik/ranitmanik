@@ -16,7 +16,7 @@
   <img height=188 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RanitManik&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=188 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranitmanik&layout=compact&langs_count=8&card_width=320&theme=radical" />
+  <img height=188 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranitmanik&layout=compact&langs_count=8&card_width=320&theme=radical&hide=html,css"/>
 </a>
 
 # 💻 Tech Stack:
@@ -28,6 +28,7 @@
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RanitManik&limit=5&theme=radical&combine_all_yearly_contributions=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ranitmanik&theme=radical)](https://git.io/streak-stats)
 
 # 🧑‍💻wakatime stats:
 [![Ranit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ranitmanik&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
