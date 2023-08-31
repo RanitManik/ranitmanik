@@ -16,7 +16,7 @@
   <img height=188 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RanitManik&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=188 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranitmanik&layout=compact&langs_count=8&card_width=320&theme=radical"/>
+  <img height=188 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranitmanik&layout=compact&langs_count=8&card_width=320&theme=radical&hide=html"/>
 </a>
 
 # 💻 Tech Stack:
