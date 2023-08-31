@@ -27,8 +27,9 @@
 
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RanitManik&limit=5&theme=radical&combine_all_yearly_contributions=true)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ranitmanik&theme=radical)](https://git.io/streak-stats)
+![](https://github-contributor-stats.vercel.app/api?username=RanitManik&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
 
 # 🧑‍💻wakatime stats:
 [![Ranit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ranitmanik&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
