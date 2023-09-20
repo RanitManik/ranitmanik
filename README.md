@@ -27,7 +27,7 @@
 
 
 # 🔝 Top Contributions
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ranitmanik&theme=radical)](https://git.io/streak-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/RanitManik?cardType=github&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)
 ![](https://github-contributor-stats.vercel.app/api?username=RanitManik&limit=3&theme=radical&combine_all_yearly_contributions=true)
 
 
