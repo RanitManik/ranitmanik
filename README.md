@@ -27,7 +27,6 @@
 
 
 # 🔝 Top Contributions
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RanitManik&theme=radical)](https://git.io/streak-stats)
 ![](https://github-contributor-stats.vercel.app/api?username=RanitManik&limit=3&theme=radical&combine_all_yearly_contributions=true)
 
 
