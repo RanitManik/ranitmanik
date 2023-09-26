@@ -12,10 +12,10 @@
 <img height=117 align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/bc6f9f65-5337-4466-8510-32235815e439" />
 
 # 📊 GitHub Stats:
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="github-readme-stats-delta-ranit-one-27.vercel.app">
   <img height=188 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RanitManik&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="github-readme-stats-delta-ranit-one-27.vercel.app">
   <img height=188 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranitmanik&layout=compact&langs_count=8&card_width=320&theme=radical&hide=html,css"/>
 </a>
 
@@ -31,7 +31,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=RanitManik&limit=3&theme=radical&combine_all_yearly_contributions=true)
 
 # 🧑‍💻wakatime stats:
-[![Ranit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ranitmanik&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Ranit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ranitmanik&layout=compact&theme=radical)](github-readme-stats-delta-ranit-one-27.vercel.app)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RanitManik&icon=0&color=0)](https://visitcount.itsvg.in)
