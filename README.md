@@ -28,7 +28,7 @@
 
 # 🔝 Top Contributions
 ![](https://github-contributor-stats.vercel.app/api?username=RanitManik&limit=3&theme=radical&combine_all_yearly_contributions=true)
-
+[![](https://streak-stats.demolab.com?user=RanitManik&theme=radical)](https://git.io/streak-stats)
 
 # 🧑‍💻wakatime stats:
 [![Ranit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ranitmanik&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
