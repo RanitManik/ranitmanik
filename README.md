@@ -31,7 +31,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=RanitManik&limit=3&theme=radical&combine_all_yearly_contributions=true)
 
 # 🧑‍💻wakatime stats:
-[![Ranit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ranitmanik&layout=compact&theme=radical)](github-readme-stats-delta-ranit-one-27.vercel.app)
+[![Ranit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RanitManik&layout=compact&theme=radical)](github-readme-stats-delta-ranit-one-27.vercel.app)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RanitManik&icon=0&color=0)](https://visitcount.itsvg.in)
