@@ -34,4 +34,14 @@
 [![Ranit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RanitManik&layout=compact&theme=radical)](github-readme-stats-delta-ranit-one-27.vercel.app)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RanitManik&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=RanitManik&icon=0&color=0" alt="Visit Count" />
+  </a>
+</div>
+<br>
+
+<p align="center"> if you like my work, maybe consider buying me a coffee/tea <img src="https://media.giphy.com/media/lRSeZ2ddNwhZ5AgIvk/giphy.gif" width="25">
+
+<p align="center"><a href="https://www.buymeacoffee.com/bishnudevk8" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
