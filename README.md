@@ -30,7 +30,7 @@
 [![](https://streak-stats.demolab.com?user=RanitManik&theme=radical)](https://git.io/streak-stats)
 <!-- ![](https://github-contributor-stats.vercel.app/api?username=RanitManik&limit=3&theme=radical&combine_all_yearly_contributions=true) -->
 
-# Pinned Repos
+# 📌 Pinned Repos
 <a href="https://github.com/RanitManik/Netflix-clone">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=RanitManik&theme=radical&repo=Netflix-clone" />
 </a>
