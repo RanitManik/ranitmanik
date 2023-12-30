@@ -25,11 +25,6 @@
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RanitManik&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-
-# 🔝 Top Contributions
-[![](https://streak-stats.demolab.com?user=RanitManik&theme=radical)](https://git.io/streak-stats)
-<!-- ![](https://github-contributor-stats.vercel.app/api?username=RanitManik&limit=3&theme=radical&combine_all_yearly_contributions=true) -->
-
 # 📌 Pinned Repos
 <a href="https://github.com/RanitManik/Netflix-clone">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=RanitManik&theme=radical&repo=Netflix-clone" />
@@ -37,6 +32,11 @@
 <a href="https://github.com/RanitManik/YouTube-clone">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=RanitManik&theme=radical&repo=YouTube-clone" />
 </a>
+
+# 🔝 Top Contributions
+[![](https://streak-stats.demolab.com?user=RanitManik&theme=radical)](https://git.io/streak-stats)
+<!-- ![](https://github-contributor-stats.vercel.app/api?username=RanitManik&limit=3&theme=radical&combine_all_yearly_contributions=true) -->
+
 
 # 🧑‍💻wakatime stats:
 [![Ranit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RanitManik&layout=compact&theme=radical)](github-readme-stats-delta-ranit-one-27.vercel.app)
