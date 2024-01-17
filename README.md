@@ -41,7 +41,7 @@
 
 
 # 🧑‍💻wakatime stats:
-[![Ranit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RanitManik&layout=compact&theme=radical)](github-readme-stats-delta-ranit-one-27.vercel.app)
+![Ranit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RanitManik&layout=compact&theme=radical)
 
 ---
 
