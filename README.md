@@ -53,12 +53,6 @@
 <table width="100%" align="center">
   <tr>
     <td align="center">
-        <img height="50" align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/22913f42-3041-4abc-bc4c-3f3ce3ed6525" />
-    </td>
-    <td align="center">
-        <img height="50" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1024px-CSS3_logo.svg.png" />
-    </td>
-    <td align="center">
         <img height="50" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" />
     </td>
     <td align="center">
@@ -70,18 +64,18 @@
     <td align="center">
         <img height="50" align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-        <img height="50" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" />
-    </td>
-    <td align="center">
-        <img height="50" align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/50a7aebc-dca5-4693-907a-f0b46637a04f" />
-    </td>
     <td align="center">
         <img height="50" align="center" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" />
     </td>
+  </tr>
+  <tr>
     <td align="center">
+        <img height="50" align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/22913f42-3041-4abc-bc4c-3f3ce3ed6525" />
+    </td>
+    <td align="center">
+        <img height="50" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1024px-CSS3_logo.svg.png" />
+    </td>
+        <td align="center">
         <img height="50" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" />
     </td>
     <td align="center">
@@ -91,8 +85,24 @@
         <img height="50" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
     </td>
   </tr>
+  <tr>
+    <td align="center">
+        <img height="50" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" />
+    </td>
+    <td align="center">
+        <img height="50" align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/50a7aebc-dca5-4693-907a-f0b46637a04f" />
+    </td>
+    <td align="center">
+        <img height="50" align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Canva-logo-png-circle-full-colour-white-font.png" />
+    </td>
+    <td align="center">
+        <img height="50" align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/5e63dbf6-bb00-4587-b157-156efd62574d" />
+    </td>
+    <td align="center">
+        <img height="50" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" />
+    </td>
+  </tr>
 </table>
-
 
 ---
 
