@@ -62,12 +62,12 @@
         <img height="50" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" />
     </td>
     <td align="center">
+        <img height="50" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" />
+    </td>
+    <td align="center">
         <img height="50" align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/f45d54d7-a34e-427c-a63d-2933e6ed84d7"/>
     </td>
     <td align="center">
-        <img height="50" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" />
-    </td>
-        <td align="center">
         <img height="50" align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />
     </td>
   </tr>
