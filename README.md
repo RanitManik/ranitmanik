@@ -33,7 +33,7 @@
   <tr>
     <td width="50%"  align="center">
         <a href="https://github.com/RanitManik">
-          <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitManik&layout=pie&theme=radical&langs_count=15" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitManik&layout=pie&theme=radical&langs_count=15" />
         </a>
     </td>
     <td width="50%"  align="center">
