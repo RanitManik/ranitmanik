@@ -9,7 +9,6 @@
     <td><img src="https://github.com/RanitManik/ranitmanik/assets/138437760/bc6f9f65-5337-4466-8510-32235815e439" /></td>
   </tr>
 </table>
-<br>
 <h2 align="center">📊 GitHub Stats 📊</h2>
 
 <table width="100%">
