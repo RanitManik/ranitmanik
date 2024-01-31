@@ -51,7 +51,6 @@
 <h2 align="center">💻 Tech Stack 💻</h2>
 
 <table width="100%" align="center">
-  </tr>
   <tr>
     <td align="center">
         <img height="50" align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/22913f42-3041-4abc-bc4c-3f3ce3ed6525" />
@@ -68,6 +67,11 @@
     <td align="center">
         <img height="50" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" />
     </td>
+        <td align="center">
+        <img height="50" align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />
+    </td>
+  </tr>
+  <tr>
     <td align="center">
         <img height="50" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" />
     </td>
@@ -88,6 +92,7 @@
     </td>
   </tr>
 </table>
+
 
 ---
 
