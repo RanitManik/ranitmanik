@@ -54,31 +54,37 @@
   </tr>
   <tr>
     <td align="center">
-        <img height="50" align="center" src="https://private-user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY3MzA0NzcsIm5iZiI6MTcwNjczMDE3NywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjYtMjlmZDYyODYtNGU3Yi00ZDZjLTgxOGYtYzQ3NjVkNWUzOWE5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTMxVDE5NDI1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIxYjE4MzQxYzI2NzdlN2I3NThiM2M2MjFlMDNkN2NhODg1OTcyNWY0NWUwZjU3MmE1Y2E3Yzk2N2QyZmZlMmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.gdMtyX2B6QwqdRhsXn8m6RBvrxHdProBugi-EG8EGZo" />
+        <img height="50" align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/22913f42-3041-4abc-bc4c-3f3ce3ed6525" />
     </td>
     <td align="center">
-        <img height="50" align="center" src="https://private-user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY3MzA0NzcsIm5iZiI6MTcwNjczMDE3NywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjgtNjdmNDc3ZWQtNjYyNC00MmRhLTk5ZjAtMWE3YjFhMTZlZWNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTMxVDE5NDI1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYzNWYyMGJjNTNlOWY1Y2ExNzNhNGVkZTMwZjVjN2I1NDBiMGNlMzdlMWFlMTA2ODRmNmQ5ZjcyNzQ4NjM2NmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.rQgBh-VT5CaSmdHpDFRMetd37kRJggAq6J_SWuUR-Gc" />
+        <img height="50" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1024px-CSS3_logo.svg.png" />
     </td>
     <td align="center">
-        <img height="50" align="center" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" />
+        <img height="50" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" />
     </td>
     <td align="center">
-        <img height="50" align="center" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/>
+        <img height="50" align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/f45d54d7-a34e-427c-a63d-2933e6ed84d7"/>
     </td>
     <td align="center">
-        <img height="50" align="center" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" />
+        <img height="50" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" />
     </td>
     <td align="center">
-        <img height="50" align="center" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" />
+        <img height="50" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" />
     </td>
     <td align="center">
-        <img height="50" align="center" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" />
+        <img height="50" align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/50a7aebc-dca5-4693-907a-f0b46637a04f" />
     </td>
     <td align="center">
-        <img height="50" align="center" src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" />
+        <img height="50" align="center" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" />
     </td>
     <td align="center">
-        <img height="50" align="center" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" />
+        <img height="50" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" />
+    </td>
+    <td align="center">
+        <img height="50" align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/d4317004-4b42-442b-9ee7-492015917790" />
+    </td>
+    <td align="center">
+        <img height="50" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
     </td>
   </tr>
 </table>
