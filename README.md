@@ -90,10 +90,10 @@
         <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" />
     </td>
     <td align="center">
-        <img height="40" align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/50a7aebc-dca5-4693-907a-f0b46637a04f" />
+        <img height="40" align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Canva-logo-png-circle-full-colour-white-font.png" />
     </td>
     <td align="center">
-        <img height="40" align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Canva-logo-png-circle-full-colour-white-font.png" />
+        <img height="40" align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/50a7aebc-dca5-4693-907a-f0b46637a04f" />
     </td>
     <td align="center">
         <img height="40" align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/5e63dbf6-bb00-4587-b157-156efd62574d" />
