@@ -50,6 +50,7 @@
 
 <h2 align="center">💻 Tech Stack 💻</h2>
 
+
 <table width="100%" align="center">
   <tr>
     <td align="center">
@@ -65,11 +66,6 @@
         <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />
     </td>
     <td align="center">
-        <img height="40" align="center" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
         <img height="40" align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/22913f42-3041-4abc-bc4c-3f3ce3ed6525" />
     </td>
     <td align="center">
@@ -83,6 +79,7 @@
     </td>
     <td align="center">
         <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
+    </td>
     </td>
   </tr>
   <tr>
@@ -100,6 +97,18 @@
     </td>
     <td align="center">
         <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" />
+    </td>
+    <td align="center">
+        <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png" />
+    </td>
+    <td align="center">
+        <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/180px-Adobe_After_Effects_CC_icon.svg.png" />
+    </td>
+    <td align="center">
+        <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" />
+    </td>
+    <td align="center">
+        <img height="40" align="center" src="https://i.redd.it/tu3gt6ysfxq71.png" />
     </td>
   </tr>
 </table>
