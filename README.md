@@ -1,4 +1,4 @@
-<img align="right" width="40%" src="https://github.com/RanitManik/ranitmanik/assets/138437760/a6c87d8d-440d-4dda-8f91-22d85e53262e">
+<img align="right" width="30%" src="https://github.com/RanitManik/ranitmanik/assets/138437760/a6c87d8d-440d-4dda-8f91-22d85e53262e">
   
 # Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">, I'm Ranit Manik
 
