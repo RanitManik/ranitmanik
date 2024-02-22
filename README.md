@@ -1,6 +1,6 @@
 <img align="right" width="30%" src="https://github.com/RanitManik/ranitmanik/assets/138437760/a6c87d8d-440d-4dda-8f91-22d85e53262e">
   
-# Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">, I'm Ranit Manik
+# Hi👋, I'm Ranit Manik
 
 <h3>A passionate designer and developer from India</h3>
 
@@ -11,6 +11,8 @@
 - 📝 Writing technical blogs on [Hashnode](https://hashnode.com/@ranitmanik).
 - 📧 Reach me via [Email](mailto:ranitmanik.dev@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ranit-manik/).
 - 📍 Currently based in Mecheda, West Bengal, India.
+
+<br>
 
 <h2 align="center">📊 GitHub Stats 📊</h2>
 
