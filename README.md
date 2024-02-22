@@ -4,7 +4,7 @@
 
 <h3>A passionate designer and developer from India</h3>
 
-- 🌱 Currently pursuing a Bachelor's degree in Computer Science at [CEMK](https://cemkolaghat.in/).
+- 🏫 Currently pursuing a Bachelor's degree in Computer Science at [CEMK](https://cemkolaghat.in/).
 - 💻 Open Source Contributor with a focus on [GitHub](https://github.com/RanitManik).
 - 📚 Proficient in HTML, CSS, JavaScript, Python, Java, C, and Figma.
 - 🌐 Visit my [Portfolio](https://github.com/RanitManik/Portfolio-1.0) to explore my projects and achievements.
