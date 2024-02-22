@@ -1,14 +1,17 @@
-<h1 align="center">Hi 👋, I'm Ranit Manik</h1>
-<h3 align="center">A passionate designer and developer from India</h3>
-<br>
-<table>
-  <tr>
-    <td><img src="https://github.com/RanitManik/ranitmanik/assets/138437760/20ba2f39-13d4-452d-963b-195b98312199" /></td>
-    <td><img src="https://github.com/RanitManik/ranitmanik/assets/138437760/bc6f9f65-5337-4466-8510-32235815e439" /></td>
-    <td><img src="https://github.com/RanitManik/ranitmanik/assets/138437760/bc6f9f65-5337-4466-8510-32235815e439" /></td>
-    <td><img src="https://github.com/RanitManik/ranitmanik/assets/138437760/bc6f9f65-5337-4466-8510-32235815e439" /></td>
-  </tr>
-</table>
+<img align="right" width="30%" src="https://github.com/RanitManik/ranitmanik/assets/138437760/a6c87d8d-440d-4dda-8f91-22d85e53262e">
+  
+# Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">, I'm Ranit Manik
+
+<h3>A passionate designer and developer from India</h3>
+
+- 🌱 Currently pursuing a Bachelor's degree in Computer Science at [CEMK](https://cemkolaghat.in/).
+- 💻 Open Source Contributor with a focus on [GitHub](https://github.com/RanitManik).
+- 📚 Proficient in HTML, CSS, JavaScript, Python, Java, C, and Figma.
+- 🌐 Visit my [Portfolio](https://github.com/RanitManik/Portfolio-1.0) to explore my projects and achievements.
+- 📝 Writing technical blogs on [Hashnode](https://hashnode.com/@ranitmanik).
+- 📧 Reach me via [Email](mailto:ranitmanik.dev@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ranit-manik/).
+- 📍 Currently based in Mecheda, West Bengal, India.
+
 <h2 align="center">📊 GitHub Stats 📊</h2>
 
 <table width="100%">
