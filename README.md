@@ -53,7 +53,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=RanitManik&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1)
 
-<h2 align="center">💻 Tech Stack 💻</h2>
+<h2 align="center">💻 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 💻</h2>
 
 
 <table width="100%" align="center">
