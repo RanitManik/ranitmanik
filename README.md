@@ -1,8 +1,8 @@
 <img align="right" width="30%" src="https://github.com/RanitManik/ranitmanik/assets/138437760/a6c87d8d-440d-4dda-8f91-22d85e53262e">
   
-# Hi👋, I'm Ranit Manik
+# Hi👋, I'm ꧁༺ 𝓡𝓪𝓷𝓲𝓽 𝓜𝓪𝓷𝓲𝓴 ༻꧂
 
-<h3>A passionate designer and developer from India</h3>
+<h3>𝑨 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒅𝒆𝒔𝒊𝒈𝒏𝒆𝒓 𝒂𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒓𝒐𝒎 𝑰𝒏𝒅𝒊𝒂</h3>
 
 - 🏫 Currently pursuing a Bachelor's degree in Computer Science at [CEMK](https://cemkolaghat.in/).
 - 💻 Open Source Contributor with a focus on [GitHub](https://github.com/RanitManik).
@@ -14,7 +14,7 @@
 
 <br>
 
-<h2 align="center">📊 GitHub Stats 📊</h2>
+<h2 align="center">📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀 📊</h2>
 
 <table width="100%">
   <tr>
@@ -31,7 +31,7 @@
   </tr>
 </table>
 
-<h2 align="center">🧑‍💻 Language Stats 🧑‍💻</h2>
+<h2 align="center">🧑‍💻 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗦𝘁𝗮𝘁𝘀 🧑‍💻</h2>
 
 <table width="100%" align="center">
   </tr>
@@ -49,7 +49,7 @@
   </tr>
 </table>
   
-<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+<h2 align="center">🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀 🏆</h2>
 
 ![](https://github-profile-trophy.vercel.app/?username=RanitManik&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1)
 
