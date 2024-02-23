@@ -12,7 +12,9 @@
 - 📧 Reach me via [Email](mailto:ranitmanik.dev@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ranit-manik/).
 - 📍 Currently based in Mecheda, West Bengal, India.
 
-<br>
+<a href="https://visitcount.itsvg.in">
+  <img height="20" src="https://visitcount.itsvg.in/api?id=RanitManik&icon=0&color=0" alt=""/>
+</a>
 
 <h2 align="center">📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀 📊</h2>
 
