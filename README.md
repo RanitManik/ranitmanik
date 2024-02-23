@@ -124,3 +124,5 @@
   <img height="20" src="https://wakatime.com/badge/user/6c66cc47-ce26-48cc-a555-22494865c546.svg"/>
   <img height="20" src="https://visitcount.itsvg.in/api?id=RanitManik&icon=0&color=0"/>
 </div>
+
+![snake gif](https://github.com/RanitManik/RanitManik/blob/output/github-contribution-grid-snake.gif)
