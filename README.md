@@ -125,4 +125,4 @@
   <img height="20" src="https://visitcount.itsvg.in/api?id=RanitManik&icon=0&color=0"/>
 </div>
 
-![snake gif](https://github.com/RanitManik/RanitManik/blob/output/github-contribution-grid-snake.gif)
+![](https://github.com/RanitManik/ranitmanik/blob/output/github-contribution-grid-snake.svg)
