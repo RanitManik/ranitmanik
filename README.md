@@ -77,10 +77,67 @@
 
 <h2 align="center">💻 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 💻</h2>
 
-<div align="center">
-  <img width=70% alt="skills" src="https://github.com/RanitManik/ranitmanik/assets/138437760/e99fd0a5-79a5-4749-8f3e-c1641c432a0f" />
-</div>
-
+<table width="100%" align="center">
+  <tr>
+    <td align="center">
+        <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" />
+    </td>
+    <td align="center">
+        <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" />
+    </td>
+    <td align="center">
+        <img height="40" align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/f45d54d7-a34e-427c-a63d-2933e6ed84d7"/>
+    </td>
+    <td align="center">
+        <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />
+    </td>
+    <td align="center">
+        <img height="40" align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/22913f42-3041-4abc-bc4c-3f3ce3ed6525" />
+    </td>
+    <td align="center">
+        <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1024px-CSS3_logo.svg.png" />
+    </td>
+        <td align="center">
+        <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" />
+    </td>
+    <td align="center">
+        <img height="40" align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/d4317004-4b42-442b-9ee7-492015917790" />
+    </td>
+    <td align="center">
+        <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
+    </td>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+        <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" />
+    </td>
+    <td align="center">
+        <img height="40" align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Canva-logo-png-circle-full-colour-white-font.png" />
+    </td>
+    <td align="center">
+        <img height="40" align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/50a7aebc-dca5-4693-907a-f0b46637a04f" />
+    </td>
+    <td align="center">
+        <img height="40" align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/5e63dbf6-bb00-4587-b157-156efd62574d" />
+    </td>
+    <td align="center">
+        <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" />
+    </td>
+    <td align="center">
+        <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png" />
+    </td>
+    <td align="center">
+        <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/180px-Adobe_After_Effects_CC_icon.svg.png" />
+    </td>
+    <td align="center">
+        <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" />
+    </td>
+    <td align="center">
+        <img height="40" align="center" src="https://i.redd.it/tu3gt6ysfxq71.png" />
+    </td>
+  </tr>
+</table>
 
 ---
 
