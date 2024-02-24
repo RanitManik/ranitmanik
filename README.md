@@ -77,7 +77,9 @@
 
 <h2 align="center">💻 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 💻</h2>
 
-![skills_expanded](https://github.com/RanitManik/ranitmanik/assets/138437760/fe697c43-7a40-4a25-a899-89bd982ecbf9)
+<div align="center">
+  <img width=70% alt="skills" src="https://github.com/RanitManik/ranitmanik/assets/138437760/fe697c43-7a40-4a25-a899-89bd982ecbf9" />
+</div>
 
 ---
 
