@@ -77,8 +77,7 @@
 
 <h2 align="center">💻 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 💻</h2>
 
-
-![skills](https://github.com/RanitManik/ranitmanik/assets/138437760/fe8be0bf-e58b-4c26-bbc4-cbcc354fd83d)
+![skills_expanded](https://github.com/RanitManik/ranitmanik/assets/138437760/fe697c43-7a40-4a25-a899-89bd982ecbf9)
 
 ---
 
