@@ -77,8 +77,12 @@
 
 <h2 align="center">💻 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 💻</h2>
 
-<div align=center>
-  <img width=60% src=https://github.com/RanitManik/ranitmanik/assets/138437760/ab457125-4165-4eb8-b20c-758ab2574f72>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RanitManik/ranitmanik/assets/138437760/ab457125-4165-4eb8-b20c-758ab2574f72" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/RanitManik/ranitmanik/assets/138437760/34523755-fd6f-42a2-a222-ac69bb33e522" />
+    <img width=60% src=https://github.com/RanitManik/ranitmanik/assets/138437760/ab457125-4165-4eb8-b20c-758ab2574f72>
+  </picture>
 </div>
 
 ---
