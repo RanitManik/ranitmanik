@@ -1,4 +1,4 @@
-<img align="right" width="30%" src="https://github.com/RanitManik/ranitmanik/assets/138437760/a6c87d8d-440d-4dda-8f91-22d85e53262e">
+<img align="right" width="30%" src="https://github.com/RanitManik/ranitmanik/assets/138437760/85250c16-a676-4eaa-8607-c74d722d7f1e">
   
 # Hi👋, I'm Ranit Manik
 
