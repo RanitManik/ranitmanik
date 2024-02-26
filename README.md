@@ -1,4 +1,4 @@
-<img align="right" width="30%" src="https://github.com/RanitManik/ranitmanik/assets/138437760/85250c16-a676-4eaa-8607-c74d722d7f1e">
+<img align="right" width="30%" src="Assets/profile-img.png">
   
 # Hi👋, I'm Ranit Manik
 
@@ -79,9 +79,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RanitManik/ranitmanik/assets/138437760/18e51b51-551e-4237-bf33-a7f203f73e1a" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/RanitManik/ranitmanik/assets/138437760/34523755-fd6f-42a2-a222-ac69bb33e522" />
-    <img width=70% src="https://github.com/RanitManik/ranitmanik/assets/138437760/18e51b51-551e-4237-bf33-a7f203f73e1a">
+    <source media="(prefers-color-scheme: dark)" srcset="Assets/skills-svg-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="Assets/skills-svg-light.svg" />
+    <img width=70% src="Assets/skills-svg-dark.svg">
   </picture>
 </div>
 
