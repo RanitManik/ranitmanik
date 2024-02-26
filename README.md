@@ -79,9 +79,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RanitManik/ranitmanik/assets/138437760/3811b953-3ef9-44fc-a24f-3e9e54308b63" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RanitManik/ranitmanik/assets/138437760/18e51b51-551e-4237-bf33-a7f203f73e1a" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/RanitManik/ranitmanik/assets/138437760/34523755-fd6f-42a2-a222-ac69bb33e522" />
-    <img width=70% src=https://github.com/RanitManik/ranitmanik/assets/138437760/3811b953-3ef9-44fc-a24f-3e9e54308b63>
+    <img width=70% src="https://github.com/RanitManik/ranitmanik/assets/138437760/18e51b51-551e-4237-bf33-a7f203f73e1a">
   </picture>
 </div>
 
