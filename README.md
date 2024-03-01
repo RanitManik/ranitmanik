@@ -1,6 +1,4 @@
-![Hello World!](https://github.com/RanitManik/ranitmanik/assets/138437760/81a86eaf-060c-4ed4-8abb-35ee5a197766)
-
-<!-- <img align="right" width="30%" src="Assets/profile-img.png"> -->
+<img align="right" width="30%" src="Assets/profile-img.png">
   
 # Hi👋, I'm Ranit Manik
 
