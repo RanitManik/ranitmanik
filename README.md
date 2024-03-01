@@ -1,5 +1,5 @@
-<img align="right" width="30%" src="Assets/profile-img.png">
-  
+<img width=30% align=right src="https://github.com/RanitManik/ranitmanik/assets/138437760/fef33c9f-e955-4126-9436-73dd2705c796">
+
 # Hi👋, I'm Ranit Manik
 
 <h3>𝑨 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒅𝒆𝒔𝒊𝒈𝒏𝒆𝒓 𝒂𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒓𝒐𝒎 𝑰𝒏𝒅𝒊𝒂</h3>
