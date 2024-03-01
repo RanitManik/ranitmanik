@@ -1,4 +1,4 @@
-![Hello World](https://github.com/RanitManik/ranitmanik/assets/138437760/84146019-7b42-43c5-92a4-1a8c820235dd)
+![Hello World!](https://github.com/RanitManik/ranitmanik/assets/138437760/81a86eaf-060c-4ed4-8abb-35ee5a197766)
 
 <!-- <img align="right" width="30%" src="Assets/profile-img.png"> -->
   
