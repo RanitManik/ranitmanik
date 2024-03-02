@@ -1,4 +1,4 @@
-![Hello World!](https://github.com/RanitManik/ranitmanik/assets/138437760/d9513bf7-2529-40d4-a800-c905189f118b)
+<img width=100% src="Assets/hello-world.png" alt="">
 
 # Hi👋, I'm Ranit Manik
 
