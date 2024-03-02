@@ -1,4 +1,4 @@
-<img width=100% src="Assets/hello-world.png" alt="">
+<!-- <img width=100% src="Assets/hello-world.png" alt=""> -->
 
 <img align=right width=35% alt="" src="Assets/donut-render.gif">
 
