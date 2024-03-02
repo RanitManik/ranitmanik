@@ -1,4 +1,4 @@
-<img width=100% src="Assets/hello-world.png" alt="">
+<img align=right width=30% alt="" src="Assets/profile-img.png">
 
 # Hi👋, I'm Ranit Manik
 
