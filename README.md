@@ -1,8 +1,4 @@
-<!-- <img width=100% src="Assets/hello-world.png" alt=""> -->
-
-<img align="right" width="30%" src="Assets/profile-img.png">
-  
-<!-- <img align=right width=35% alt="" src="Assets/donut-render.gif"> -->
+<img align=right width=35% alt="" src="Assets/donut-render.gif">
 
 # Hi👋, I'm [Ranit Manik](https://ranitmanik.github.io/Portfolio-1.0/)
 
