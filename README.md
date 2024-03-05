@@ -1,5 +1,3 @@
-<img width="100%" alt="" src="Assets/hello-world.png">
-
 <img align="right" width=35% alt="" src="Assets/donut-render.gif">
 
 # Hi👋, I'm [Ranit Manik](https://ranitmanik.github.io/Portfolio-1.0/)
