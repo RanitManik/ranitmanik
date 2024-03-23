@@ -45,18 +45,18 @@
     <td width="40%"  align="center">
         <a href="https://github.com/RanitManik">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitManik&layout=compact&theme=radical&langs_count=10" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitManik&layout=compact&langs_count=10" />
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitManik&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitManik&layout=compact&theme=radical&langs_count=12" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitManik&layout=compact&langs_count=12" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitManik&layout=compact&theme=radical&langs_count=12" alt="Top Languages" />
           </picture>
         </a>
     </td>
     <td width="60%"  align="center">
         <a href="https://github.com/RanitManik">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=RanitManik&layout=compact&theme=radical&langs_count=10" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=RanitManik&layout=compact&langs_count=10" />
-            <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RanitManik&layout=compact&theme=radical&langs_count=10" alt="Wakatime Stats" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=RanitManik&layout=compact&theme=radical&langs_count=12" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=RanitManik&layout=compact&langs_count=12" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RanitManik&layout=compact&theme=radical&langs_count=12" alt="Wakatime Stats" />
           </picture>
         </a>
       </td>
