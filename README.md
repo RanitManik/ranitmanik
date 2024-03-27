@@ -14,7 +14,7 @@
 
 <h2 align="center">📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀 📊</h2>
 
-<table width="100%">
+<table width="1000000px">
   <tr>
     <td width="50%">
         <a href="https://github.com/RanitManik">
@@ -39,7 +39,7 @@
 
 <h2 align="center">🧑‍💻 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗦𝘁𝗮𝘁𝘀 🧑‍💻</h2>
 
-<table width="100%" align="center">
+<table width="1000000px" align="center">
   </tr>
   <tr>
     <td width="40%"  align="center">
