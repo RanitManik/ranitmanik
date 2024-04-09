@@ -1,5 +1,3 @@
-<img align=right width=35% alt="" src="Assets/donut-render.gif">
-
 # Hi👋, I'm [Ranit Manik](https://ranitmanik.github.io/Portfolio-1.0/)
 
 <h3>𝑨 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒅𝒆𝒔𝒊𝒈𝒏𝒆𝒓 𝒂𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒓𝒐𝒎 𝑰𝒏𝒅𝒊𝒂</h3>
