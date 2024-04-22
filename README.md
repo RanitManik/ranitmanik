@@ -1,6 +1,6 @@
-<img align="right" width="30%" src="Assets/Programming.gif">
+<img width=100% src="Assets/hello-world.png" alt="">
 
-# Hi👋, I'm [Ranit Manik](https://ranitmanik.github.io/Portfolio-1.0/)
+# Hi👋, I'm Ranit Manik
 
 <h3>𝑨 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒅𝒆𝒔𝒊𝒈𝒏𝒆𝒓 𝒂𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒓𝒐𝒎 𝑰𝒏𝒅𝒊𝒂</h3>
 
@@ -12,8 +12,7 @@
 - 📧 Reach me via [Email](mailto:ranitmanik.dev@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ranit-manik/).
 - 📍 Currently based in Mecheda, West Bengal, India.
 
-<img height="1px" width="100%" src="Assets/Gradient-Line.gif">
-
+<hr>
 
 <h2 align="center">📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀 📊</h2>
 
@@ -86,7 +85,7 @@
   </picture>
 </div>
 
-<img height="1px" width="100%" src="Assets/Gradient-Line.gif">
+---
 
 <div align="center">
   <img height="20" padding-left=20 src="https://wakatime.com/badge/user/6c66cc47-ce26-48cc-a555-22494865c546.svg" alt=""/>
