@@ -1,4 +1,6 @@
-# Hi👋, I'm Ranit Manik
+<img align="right" width="30%" src="Assets/Programming.gif">
+
+# Hi👋, I'm [Ranit Manik](https://ranitmanik.github.io/Portfolio-1.0/)
 
 <h3>𝑨 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒅𝒆𝒔𝒊𝒈𝒏𝒆𝒓 𝒂𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒓𝒐𝒎 𝑰𝒏𝒅𝒊𝒂</h3>
 
@@ -83,7 +85,7 @@
   </picture>
 </div>
 
----
+<hr>
 
 <div align="center">
   <img height="20" padding-left=20 src="https://wakatime.com/badge/user/6c66cc47-ce26-48cc-a555-22494865c546.svg" alt=""/>
