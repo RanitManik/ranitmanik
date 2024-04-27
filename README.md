@@ -64,6 +64,51 @@
       </td>
   </tr>
 </table>
+
+<h2 align="center">📌 𝗣𝗶𝗻𝗻𝗲𝗱 𝗥𝗲𝗽𝗼𝘀 📌</h2>
+
+<table width="100%" align="center">
+  <tr>
+    <td width="50%" align="center">
+        <a href="https://github.com/RanitManik/frontendmentor-challenges">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=frontendmentor-challenges&theme=radical" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=frontendmentor-challenges" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=frontendmentor-challenges" alt="" />
+          </picture>
+        </a>
+    </td>
+    <td width="50%" align="center">
+        <a href="https://github.com/RanitManik/Netflix-clone">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=Netflix-clone&theme=radical" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=Netflix-clone" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=Netflix-clone" alt="" />
+          </picture>
+        </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+        <a href="https://github.com/RanitManik/sundown-studio-clone">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=sundown-studio-clone&theme=radical" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=sundown-studio-clone" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=sundown-studio-clone" alt="" />
+          </picture>
+        </a>
+    </td>
+    <td width="50%" align="center">
+        <a href="https://github.com/RanitManik/YouTube-clone">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=YouTube-clone&theme=radical" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=YouTube-clone" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=YouTube-clone" alt="" />
+          </picture>
+        </a>
+    </td>
+  </tr>
+</table>
   
 <h2 align="center">🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀 🏆</h2>
 
