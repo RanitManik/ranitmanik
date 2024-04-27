@@ -72,9 +72,9 @@
     <td width="50%" align="center">
         <a href="https://github.com/RanitManik/frontendmentor-challenges">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=frontendmentor-challenges&theme=radical" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=frontendmentor-challenges" />
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=frontendmentor-challenges" alt="" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=YouTube-clone&theme=radical" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=YouTube-clone" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=YouTube-clone" alt="" />
           </picture>
         </a>
     </td>
@@ -92,18 +92,18 @@
     <td width="50%" align="center">
         <a href="https://github.com/RanitManik/sundown-studio-clone">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=sundown-studio-clone&theme=radical" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=sundown-studio-clone" />
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=sundown-studio-clone" alt="" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=Portfolio-1.0&theme=radical" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=Portfolio-1.0" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=Portfolio-1.0" alt="" />
           </picture>
         </a>
     </td>
     <td width="50%" align="center">
         <a href="https://github.com/RanitManik/YouTube-clone">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=YouTube-clone&theme=radical" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=YouTube-clone" />
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=YouTube-clone" alt="" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=frontendmentor-challenges&theme=radical" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=frontendmentor-challenges" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=frontendmentor-challenges" alt="" />
           </picture>
         </a>
     </td>
