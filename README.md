@@ -65,7 +65,6 @@
   </tr>
 </table>
 
-<!--
 <h2 align="center">📌 𝗣𝗶𝗻𝗻𝗲𝗱 𝗥𝗲𝗽𝗼𝘀 📌</h2>
 
 <table width="100%" align="center">
@@ -89,6 +88,7 @@
         </a>
     </td>
   </tr>
+  <!--
   <tr>
     <td width="50%" align="center">
         <a href="https://github.com/RanitManik/Portfolio-1.0">
@@ -109,9 +109,8 @@
         </a>
     </td>
   </tr>
+  -->
 </table>
-
--->
 
 <h2 align="center">🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀 🏆</h2>
 
