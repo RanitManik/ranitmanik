@@ -148,3 +148,6 @@
     <img alt="github-snake" src="https://github.com/RanitManik/ranitmanik/blob/output/github-snake-dark.svg" style="width: 100%; max-width: 400px; margin: 0 auto;" />
   </picture>
 </div>
+
+<!-- yhype Installation -->
+![yhype Installation](https://hit.yhype.me/github/profile?user_id=138437760)
