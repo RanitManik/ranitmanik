@@ -7,7 +7,7 @@
 - 🏫 Currently pursuing a Bachelor's degree in Computer Science at [CEMK](https://cemkolaghat.in/).
 - 💻 Open Source Contributor with a focus on [GitHub](https://github.com/RanitManik).
 - 📚 Proficient in HTML, CSS, JavaScript, ReactJS, NodeJS, Python.
-- 🌐 Visit my [Portfolio](https://github.com/RanitManik/Portfolio-1.0) to explore my projects and achievements.
+- 🌐 Visit my [Portfolio](https://ranitmanik.online) to explore my projects and achievements.
 - 📝 Writing technical blogs on [Hashnode](https://hashnode.com/@ranitmanik).
 - 📧 Reach me via [Email](mailto:ranitmanik.dev@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ranit-manik/).
 - 📍 Currently based in Mecheda, West Bengal, India.
