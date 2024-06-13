@@ -2,15 +2,15 @@
 
 # Hi👋, I'm [Ranit Manik](https://ranitmanik.github.io/Portfolio-1.0/)
 
-<h3>𝑨 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒅𝒆𝒔𝒊𝒈𝒏𝒆𝒓 𝒂𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒓𝒐𝒎 𝑰𝒏𝒅𝒊𝒂</h3>
+<h3>𝑨 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝑫𝒆𝒔𝒊𝒈𝒏𝒆𝒓 𝒂𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒓𝒐𝒎 𝑰𝒏𝒅𝒊𝒂</h3>
 
-- 🏫 Currently pursuing a Bachelor's degree in Computer Science at [CEMK](https://cemkolaghat.in/).
-- 💻 Open Source Contributor with a focus on [GitHub](https://github.com/RanitManik).
-- 📚 Proficient in HTML, CSS, JavaScript, ReactJS, NodeJS, Python.
-- 🌐 Visit my [Portfolio](https://ranitmanik.online) to explore my projects and achievements.
-- 📝 Writing technical blogs on [Hashnode](https://hashnode.com/@ranitmanik).
-- 📧 Reach me via [Email](mailto:ranitmanik.dev@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ranit-manik/).
-- 📍 Currently based in Mecheda, West Bengal, India.
+- 🏫 Currently pursuing a **Bachelor's Degree** in Computer Science at [_CEMK_](https://cemkolaghat.in/).
+- 💻 **Open Source Contributor** with a focus on [_GitHub_](https://github.com/RanitManik).
+- 📚 Proficient in `HTML`, `CSS`, `JavaScript`, `ReactJS`, `NodeJS`, `Python`, and `Java`.
+- 🌐 Visit my [_Portfolio_](https://ranitmanik.online) to explore my **projects and achievements**.
+- 📝 Writing **technical blogs** on [_Hashnode_](https://hashnode.com/@ranitmanik).
+- 📧 Reach me via [_Email_](mailto:ranitmanik.dev@gmail.com) or connect on [_LinkedIn_](https://www.linkedin.com/in/ranit-manik/).
+- 📍 Based in **Mecheda, West Bengal, India**.
 
 <hr>
 
