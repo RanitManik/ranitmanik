@@ -114,7 +114,7 @@
     <br />
     <img src="https://skillicons.dev/icons?i=vite,react,svelte,vue,htmx,electron,npm,nodejs,express,flask,graphql,next" />
     <br />
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase,vercel,aws,netlify,docker,cloudflare,git,github,bash,linux,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=mongodb,firebase,vercel,netlify,aws,docker,cloudflare,git,github,bash,linux,stackoverflow" />
 </p>
 
 <hr>
@@ -130,4 +130,4 @@
 </div>
 
 <!-- yhype Installation -->
-![yhype Installation](https://hit.yhype.me/github/profile?user_id=138437760)
+![](https://hit.yhype.me/github/profile?user_id=138437760)
