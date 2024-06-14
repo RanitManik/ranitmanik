@@ -4,13 +4,13 @@
 
 <h3>𝑨 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝑫𝒆𝒔𝒊𝒈𝒏𝒆𝒓 𝒂𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒓𝒐𝒎 𝑰𝒏𝒅𝒊𝒂</h3>
 
-- 🏫 Currently pursuing a **Bachelor's Degree** in Computer Science at [_CEMK_](https://cemkolaghat.in/).
-- 💻 **Open Source Contributor** with a focus on [_GitHub_](https://github.com/RanitManik).
-- 📚 Proficient in `HTML`, `CSS`, `JavaScript`, `ReactJS`, `NodeJS`, `Python`, and `Java`.
-- 🌐 Visit my [_Portfolio_](https://ranitmanik.online) to explore my **projects and achievements**.
-- 📝 Writing **technical blogs** on [_Hashnode_](https://hashnode.com/@ranitmanik).
-- 📧 Reach me via [_Email_](mailto:ranitmanik.dev@gmail.com) or connect on [_LinkedIn_](https://www.linkedin.com/in/ranit-manik/).
-- 📍 Based in **Mecheda, West Bengal, India**.
+- 🏫 Currently pursuing a Bachelor's Degree in Computer Science at [CEMK](https://cemkolaghat.in/).
+- 💻 Open Source Contributor with a focus on [GitHub](https://github.com/RanitManik).
+- 📚 Proficient in Full Stack Development.
+- 🌐 Visit my [Portfolio](https://ranitmanik.online) to explore my projects and achievements.
+- 📝 Writing technical blogs on [Hashnode](https://hashnode.com/@ranitmanik).
+- 📧 Reach me via [Email](mailto:ranitmanik.dev@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ranit-manik/).
+- 📍 Based in Mecheda, West Bengal, India.
 
 <hr>
 
@@ -21,18 +21,18 @@
     <td width="50%">
         <a href="https://github.com/RanitManik">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=RanitManik&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=RanitManik&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
-            <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RanitManik&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=RanitManik&hide_border=true&theme=radical&include_all_commits=true&count_private=true&show_icons=true" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=RanitManik&include_all_commits=true&count_private=true&show_icons=true&hide_border=true" />
+            <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RanitManik&hide_border=true&theme=radical&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
           </picture>
         </a>
     </td>
     <td width="50%">
         <a href="https://github.com/RanitManik">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-seven-psi.vercel.app?user=RanitManik&theme=radical" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-seven-psi.vercel.app?user=RanitManik" />
-            <img align="center" src="https://github-readme-streak-stats-seven-psi.vercel.app?user=RanitManik&theme=radical" alt="Streak Stats" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-seven-psi.vercel.app?user=RanitManik&hide_border=true&theme=radical" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-seven-psi.vercel.app?user=RanitManik&hide_border=true" />
+            <img align="center" src="https://github-readme-streak-stats-seven-psi.vercel.app?user=RanitManik&hide_border=true&theme=radical" alt="Streak Stats" />
           </picture>
         </a>
     </td>
@@ -47,18 +47,18 @@
     <td width="40%"  align="center">
         <a href="https://github.com/RanitManik">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitManik&layout=compact&theme=radical&langs_count=10" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitManik&layout=compact&langs_count=10" />
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitManik&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitManik&layout=compact&hide_border=true&theme=radical&langs_count=10" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitManik&layout=compact&langs_count=10&hide_border=true" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitManik&layout=compact&hide_border=true&theme=radical&langs_count=10" alt="Top Languages" />
           </picture>
         </a>
     </td>
     <td width="60%"  align="center">
         <a href="https://github.com/RanitManik">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=RanitManik&layout=compact&theme=radical&langs_count=10" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=RanitManik&layout=compact&langs_count=10" />
-            <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RanitManik&layout=compact&theme=radical&langs_count=10" alt="Wakatime Stats" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=RanitManik&layout=compact&hide_border=true&theme=radical&langs_count=10" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=RanitManik&layout=compact&langs_count=10&hide_border=true" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RanitManik&layout=compact&hide_border=true&theme=radical&langs_count=10" alt="Wakatime Stats" />
           </picture>
         </a>
       </td>
@@ -72,44 +72,22 @@
     <td width="50%" align="center">
         <a href="https://github.com/RanitManik/YouTube-clone">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=YouTube-clone&theme=radical" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=YouTube-clone" />
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=YouTube-clone" alt="" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=YouTube-clone&hide_border=true&theme=radical" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=YouTube-clone&hide_border=true" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=YouTube-clone&hide_border=true" alt="" />
           </picture>
         </a>
     </td>
     <td width="50%" align="center">
         <a href="https://github.com/RanitManik/Netflix-clone">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=Netflix-clone&theme=radical" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=Netflix-clone" />
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=Netflix-clone" alt="" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=Netflix-clone&hide_border=true&theme=radical" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=Netflix-clone&hide_border=true" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=Netflix-clone&hide_border=true" alt="" />
           </picture>
         </a>
     </td>
   </tr>
-  <!--
-  <tr>
-    <td width="50%" align="center">
-        <a href="https://github.com/RanitManik/Portfolio-1.0">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=Portfolio-1.0&theme=radical" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=Portfolio-1.0" />
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=Portfolio-1.0" alt="" />
-          </picture>
-        </a>
-    </td>
-    <td width="50%" align="center">
-        <a href="https://github.com/RanitManik/frontendmentor-challenges">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=frontendmentor-challenges&theme=radical" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=frontendmentor-challenges" />
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=frontendmentor-challenges" alt="" />
-          </picture>
-        </a>
-    </td>
-  </tr>
-  -->
 </table>
 
 <h2 align="center">🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀 🏆</h2>
@@ -118,9 +96,9 @@
   <tr>
     <td align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=RanitManik&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=RanitManik&no-frame=false&no-bg=false&margin-w=4&row=1" />
-        <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=RanitManik&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=RanitManik&hide_border=true&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=RanitManik&no-frame=true&no-bg=false&margin-w=4&row=1&hide_border=true" />
+        <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=RanitManik&hide_border=true&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
       </picture>
     </td>
   </tr>
@@ -129,13 +107,15 @@
 
 <h2 align="center">💻 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 💻</h2>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="Assets/skills-svg-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="Assets/skills-svg-light.svg" />
-    <img width=70% src="Assets/skills-svg-dark.svg">
-  </picture>
-</div>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,less,tailwind,bootstrap,svg,figma,ps,ai,pr,blender" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,c,cs,webstorm,idea,clion,pycharm,rider,replit" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=vite,react,svelte,vue,htmx,electron,npm,nodejs,express,flask,graphql,next" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=mongodb,firebase,vercel,aws,netlify,docker,cloudflare,git,github,bash,linux,stackoverflow" />
+</p>
 
 <hr>
 
