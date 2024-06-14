@@ -21,18 +21,18 @@
     <td width="50%">
         <a href="https://github.com/RanitManik">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=RanitManik&theme=radical&include_all_commits=true&count_private=true&show_icons=true" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=RanitManik&include_all_commits=true&count_private=true&show_icons=true" />
-            <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RanitManik&theme=radical&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=RanitManik&hide_border=true&theme=radical&include_all_commits=true&count_private=true&show_icons=true" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=RanitManik&include_all_commits=true&count_private=true&show_icons=true&hide_border=true" />
+            <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RanitManik&hide_border=true&theme=radical&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
           </picture>
         </a>
     </td>
     <td width="50%">
         <a href="https://github.com/RanitManik">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-seven-psi.vercel.app?user=RanitManik&theme=radical" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-seven-psi.vercel.app?user=RanitManik" />
-            <img align="center" src="https://github-readme-streak-stats-seven-psi.vercel.app?user=RanitManik&theme=radical" alt="Streak Stats" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-seven-psi.vercel.app?user=RanitManik&hide_border=true&theme=radical" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-seven-psi.vercel.app?user=RanitManik&hide_border=true" />
+            <img align="center" src="https://github-readme-streak-stats-seven-psi.vercel.app?user=RanitManik&hide_border=true&theme=radical" alt="Streak Stats" />
           </picture>
         </a>
     </td>
@@ -47,18 +47,18 @@
     <td width="40%"  align="center">
         <a href="https://github.com/RanitManik">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitManik&layout=compact&theme=radical&langs_count=10" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitManik&layout=compact&langs_count=10" />
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitManik&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitManik&layout=compact&hide_border=true&theme=radical&langs_count=10" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitManik&layout=compact&langs_count=10&hide_border=true" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitManik&layout=compact&hide_border=true&theme=radical&langs_count=10" alt="Top Languages" />
           </picture>
         </a>
     </td>
     <td width="60%"  align="center">
         <a href="https://github.com/RanitManik">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=RanitManik&layout=compact&theme=radical&langs_count=10" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=RanitManik&layout=compact&langs_count=10" />
-            <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RanitManik&layout=compact&theme=radical&langs_count=10" alt="Wakatime Stats" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=RanitManik&layout=compact&hide_border=true&theme=radical&langs_count=10" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=RanitManik&layout=compact&langs_count=10&hide_border=true" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RanitManik&layout=compact&hide_border=true&theme=radical&langs_count=10" alt="Wakatime Stats" />
           </picture>
         </a>
       </td>
@@ -72,18 +72,18 @@
     <td width="50%" align="center">
         <a href="https://github.com/RanitManik/YouTube-clone">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=YouTube-clone&theme=radical" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=YouTube-clone" />
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=YouTube-clone" alt="" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=YouTube-clone&hide_border=true&theme=radical" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=YouTube-clone&hide_border=true" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=YouTube-clone&hide_border=true" alt="" />
           </picture>
         </a>
     </td>
     <td width="50%" align="center">
         <a href="https://github.com/RanitManik/Netflix-clone">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=Netflix-clone&theme=radical" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=Netflix-clone" />
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=Netflix-clone" alt="" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=Netflix-clone&hide_border=true&theme=radical" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=Netflix-clone&hide_border=true" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=Netflix-clone&hide_border=true" alt="" />
           </picture>
         </a>
     </td>
@@ -96,9 +96,9 @@
   <tr>
     <td align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=RanitManik&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=RanitManik&no-frame=false&no-bg=false&margin-w=4&row=1" />
-        <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=RanitManik&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=RanitManik&hide_border=true&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=RanitManik&no-frame=true&no-bg=false&margin-w=4&row=1&hide_border=true" />
+        <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=RanitManik&hide_border=true&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
       </picture>
     </td>
   </tr>
