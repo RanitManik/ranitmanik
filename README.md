@@ -79,6 +79,7 @@
   </tr>
 </table>
 
+<!--
 <h2 align="center">𝗣𝗶𝗻𝗻𝗲𝗱 𝗥𝗲𝗽𝗼𝘀</h2>
 
 <table width="100%" align="center">
@@ -103,7 +104,7 @@
     </td>
   </tr>
 </table>
-
+-->
 
 <h2 align="center">𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸</h2>
 
