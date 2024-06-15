@@ -65,6 +65,20 @@
   </tr>
 </table>
 
+<h2 align="center">🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀 🏆</h2>
+
+<table width="100%" align="center">
+  <tr>
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=RanitManik&hide_border=true&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=RanitManik&no-frame=true&no-bg=false&margin-w=4&row=1&hide_border=true" />
+        <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=RanitManik&hide_border=true&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
+      </picture>
+    </td>
+  </tr>
+</table>
+
 <h2 align="center">📌 𝗣𝗶𝗻𝗻𝗲𝗱 𝗥𝗲𝗽𝗼𝘀 📌</h2>
 
 <table width="100%" align="center">
@@ -86,20 +100,6 @@
             <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=React-App-Template&hide_border=true" alt="" />
           </picture>
         </a>
-    </td>
-  </tr>
-</table>
-
-<h2 align="center">🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀 🏆</h2>
-
-<table width="100%" align="center">
-  <tr>
-    <td align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=RanitManik&hide_border=true&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=RanitManik&no-frame=true&no-bg=false&margin-w=4&row=1&hide_border=true" />
-        <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=RanitManik&hide_border=true&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
-      </picture>
     </td>
   </tr>
 </table>
