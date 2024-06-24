@@ -65,21 +65,6 @@
   </tr>
 </table>
 
-<h2 align="center">𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀</h2>
-
-<table width="100%" align="center">
-  <tr>
-    <td align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=RanitManik&hide_border=true&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=RanitManik&no-frame=true&no-bg=false&margin-w=4&row=1&hide_border=true" />
-        <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=RanitManik&hide_border=true&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
-      </picture>
-    </td>
-  </tr>
-</table>
-
-<!--
 <h2 align="center">𝗣𝗶𝗻𝗻𝗲𝗱 𝗥𝗲𝗽𝗼𝘀</h2>
 
 <table width="100%" align="center">
@@ -94,40 +79,59 @@
         </a>
     </td>
     <td width="50%" align="center">
-        <a href="https://github.com/RanitManik/React-App-Template">
+        <a href="https://github.com/RanitManik/React-Vite-App-Template">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=React-App-Template&hide_border=true&theme=radical" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=React-App-Template&hide_border=true" />
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=React-App-Template&hide_border=true" alt="" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=React-Vite-App-Template&hide_border=true&theme=radical" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=React-Vite-App-Template&hide_border=true" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=React-Vite-App-Template&hide_border=true" alt="" />
           </picture>
         </a>
     </td>
   </tr>
 </table>
--->
+
+<h2 align="center">𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀</h2>
+
+<table width="100%" align="center">
+  <tr>
+    <td align="center">
+        <a href="https://github.com/ryo-ma/github-profile-trophy">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=RanitManik&hide_border=true&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=RanitManik&no-frame=true&no-bg=false&margin-w=4&row=1&hide_border=true" />
+            <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=RanitManik&hide_border=true&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
+          </picture>
+        <a/>
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸</h2>
 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,less,tailwind,bootstrap,svg,figma,ps,ai,pr,blender" />
-    <br />
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,c,cs,webstorm,idea,clion,pycharm,rider,replit" />
-    <br />
-    <img src="https://skillicons.dev/icons?i=vite,react,svelte,vue,htmx,electron,npm,nodejs,express,flask,graphql,next" />
-    <br />
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase,vercel,netlify,aws,docker,cloudflare,git,github,bash,linux,stackoverflow" />
-</p>
+<div align="center">
+  <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,sass,less,tailwind,bootstrap,svg,figma,ps,ai,pr,blender" />
+      <br />
+      <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,c,cs,webstorm,idea,clion,pycharm,rider,replit" />
+      <br />
+      <img src="https://skillicons.dev/icons?i=vite,react,svelte,vue,htmx,electron,npm,nodejs,express,flask,graphql,next" />
+      <br />
+      <img src="https://skillicons.dev/icons?i=mongodb,firebase,vercel,netlify,aws,docker,cloudflare,git,github,bash,linux,stackoverflow" />
+  </a>
+</div>
 
 <hr>
 
 <div align="center">
-  <img height="20" padding-left=20 src="https://wakatime.com/badge/user/6c66cc47-ce26-48cc-a555-22494865c546.svg" alt=""/>
-  <img height="20" src="https://visitcount.itsvg.in/api?id=RanitManik&icon=0&color=0" alt=""/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RanitManik/ranitmanik/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/RanitManik/ranitmanik/blob/output/github-snake.svg" />
-    <img alt="github-snake" src="https://github.com/RanitManik/ranitmanik/blob/output/github-snake-dark.svg" style="width: 100%; max-width: 400px; margin: 0 auto;" />
-  </picture>
+  <a href="https://wakatime.com/@ranitmanik"><img height="20" padding-left=20 src="https://wakatime.com/badge/user/6c66cc47-ce26-48cc-a555-22494865c546.svg" alt=""/></a>
+  <a href="https://visitcount.itsvg.in/analytics/RanitManik"><img height="20" src="https://visitcount.itsvg.in/api?id=RanitManik&icon=0&color=0" alt=""/></a>
+  <a href="https://github.com/Platane/snk">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RanitManik/ranitmanik/blob/output/github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/RanitManik/ranitmanik/blob/output/github-snake.svg" />
+      <img alt="github-snake" src="https://github.com/RanitManik/ranitmanik/blob/output/github-snake-dark.svg" style="width: 100%; max-width: 400px; margin: 0 auto;" />
+    </picture>
+  </a>
 </div>
 
 <!-- yhype Installation -->
