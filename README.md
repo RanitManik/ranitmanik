@@ -70,20 +70,20 @@
 <table width="100%" align="center">
   <tr>
     <td width="50%" align="center">
-        <a href="https://github.com/RanitManik/README-Template">
+        <a href="https://github.com/RanitManik/frontendmentor.io">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=README-Template&hide_border=true&theme=radical" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=README-Template&hide_border=true" />
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=README-Template&hide_border=true" alt="" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=frontendmentor.io&hide_border=true&theme=radical" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=frontendmentor.io&hide_border=true" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=frontendmentor.io&hide_border=true" alt="" />
           </picture>
         </a>
     </td>
     <td width="50%" align="center">
-        <a href="https://github.com/RanitManik/React-Vite-App-Template">
+        <a href="https://github.com/RanitManik/JavaScript-Projects">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=React-Vite-App-Template&hide_border=true&theme=radical" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=React-Vite-App-Template&hide_border=true" />
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=React-Vite-App-Template&hide_border=true" alt="" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=JavaScript-Projects&hide_border=true&theme=radical" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=JavaScript-Projects&hide_border=true" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=JavaScript-Projects&hide_border=true" alt="" />
           </picture>
         </a>
     </td>
