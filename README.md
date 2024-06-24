@@ -65,31 +65,6 @@
   </tr>
 </table>
 
-<h2 align="center">𝗣𝗶𝗻𝗻𝗲𝗱 𝗥𝗲𝗽𝗼𝘀</h2>
-
-<table width="100%" align="center">
-  <tr>
-    <td width="50%" align="center">
-        <a href="https://github.com/RanitManik/frontendmentor.io">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=frontendmentor.io&hide_border=true&theme=radical" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=frontendmentor.io&hide_border=true" />
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=frontendmentor.io&hide_border=true" alt="" />
-          </picture>
-        </a>
-    </td>
-    <td width="50%" align="center">
-        <a href="https://github.com/RanitManik/JavaScript-Projects">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=JavaScript-Projects&hide_border=true&theme=radical" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=JavaScript-Projects&hide_border=true" />
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=JavaScript-Projects&hide_border=true" alt="" />
-          </picture>
-        </a>
-    </td>
-  </tr>
-</table>
-
 <h2 align="center">𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀</h2>
 
 <table width="100%" align="center">
