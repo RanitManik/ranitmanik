@@ -87,7 +87,7 @@
   <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,css,sass,less,tailwind,bootstrap,svg,figma,ps,ai,pr,blender" />
       <br />
-      <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,c,cs,webstorm,idea,clion,pycharm,rider,replit" />
+      <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,c,php,webstorm,idea,clion,pycharm,phpstorm,replit" />
       <br />
       <img src="https://skillicons.dev/icons?i=vite,react,svelte,vue,htmx,electron,npm,nodejs,express,flask,graphql,next" />
       <br />
