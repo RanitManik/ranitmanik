@@ -85,13 +85,11 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,sass,less,tailwind,bootstrap,svg,figma,ps,ai,pr,blender" />
-      <br />
-      <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,c,php,webstorm,idea,clion,pycharm,phpstorm,replit" />
-      <br />
-      <img src="https://skillicons.dev/icons?i=vite,react,svelte,vue,htmx,electron,npm,nodejs,express,flask,graphql,next" />
-      <br />
-      <img src="https://skillicons.dev/icons?i=mongodb,firebase,vercel,netlify,aws,docker,cloudflare,git,github,bash,linux,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=html,md,css,sass,tailwind,bootstrap,svg,figma,ps,ai,pr,blender" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,c,vite,nodejs,flask,react,next,express,graphql" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=mongodb,firebase,vercel,netlify,aws,docker,cloudflare,git,github,bash,linux,stackoverflow" />
   </a>
 </div>
 
