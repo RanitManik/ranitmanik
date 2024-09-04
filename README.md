@@ -2,7 +2,7 @@
 
 # Hi👋, I'm [Ranit Manik](https://ranitmanik.github.io/Portfolio-1.0/)
 
-<h3>A passionate tech enthusiast from India 🇮🇳</h3>
+<h3>A passionate tech enthusiast from India</h3>
 
 - 🏫 Currently pursuing a Bachelor's Degree in Computer Science at [CEMK](https://cemkolaghat.in/).
 - 💻 Open Source Contributor with a focus on [GitHub](https://github.com/RanitManik).
