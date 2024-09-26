@@ -85,11 +85,11 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,md,css,sass,tailwind,bootstrap,svg,figma,ps,ai,pr,blender" />
+    <img src="https://skillicons.dev/icons?i=html,md,css,sass,tailwind,bootstrap,svg,figma,ps,ai,pr,ae,blender" />
     <br />
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,vite,react,redux,next,nodejs,express,graphql,electron" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,go,python,java,vite,react,redux,next,nodejs,express,graphql,electron" />
     <br />
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase,vercel,netlify,aws,docker,cloudflare,git,github,bash,linux,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=prisma,postgres,mongodb,firebase,vercel,netlify,aws,docker,git,github,bash,linux,stackoverflow" />
   </a>
 </div>
 
