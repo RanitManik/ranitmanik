@@ -108,7 +108,7 @@
 </table>
 
 
-<h2 align="center">Texh Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
   <a href="https://skillicons.dev">
