@@ -15,7 +15,7 @@
 
 <hr>
 
-<h2 align="center">𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <table width="100%" align="center">
   <tr>
@@ -40,7 +40,7 @@
   </tr>
 </table>
 
-<h2 align="center">𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗦𝘁𝗮𝘁𝘀</h2>
+<h2 align="center">Language Stats</h2>
 
 <table width="100%" align="center">
   </tr>
@@ -66,7 +66,7 @@
   </tr>
 </table>
 
-<h2 align="center">𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀</h2>
+<h2 align="center">GitHub Trophies</h2>
 
 <table width="100%" align="center">
   <tr>
@@ -108,7 +108,7 @@
 </table>
 
 
-<h2 align="center">𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸</h2>
+<h2 align="center">Texh Stack</h2>
 
 <div align="center">
   <a href="https://skillicons.dev">
