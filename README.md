@@ -2,14 +2,12 @@
 
 # Hi👋, I'm [Ranit Manik](https://ranitmanik.github.io/Portfolio-1.0/)
 
-<h3>A passionate tech enthusiast from India</h3>
+<h3>A Tech Enthusiast from India</h3>
 
 - 👨‍💼 Frontend Developer Intern at [**Vitco**](https://vitcoimpex.in/).  
 - 🏫 Pursuing a Bachelor's Degree in Computer Science at [**CEMK**](https://cemkolaghat.in/).  
-- 💻 Open Source Contributor on [**GitHub**](https://github.com/RanitManik).  
 - 📚 Proficient in **Full Stack Development**.  
-- 🌐 Visit my [**Portfolio**](https://ranitmanik.online) to explore projects and achievements.  
-- 📝 Writing technical blogs on [**Hashnode**](https://hashnode.com/@ranitmanik).  
+- 🌐 Visit my [**Portfolio**](https://ranitmanik.online) to explore projects and achievements.
 - 📧 Reach me via [**Email**](mailto:ranitmanik.dev@gmail.com) or connect on [**LinkedIn**](https://www.linkedin.com/in/ranit-manik/).  
 - 📍 Based in **Mecheda, West Bengal, India**.  
 
@@ -81,32 +79,6 @@
     </td>
   </tr>
 </table>
-
-<h2 align="center">Recent Projects</h2>
-
-<table width="100%" align="center">
-  <tr>
-    <td>
-        <a href="https://github.com/RanitManik/CodeSnap">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=CodeSnap&hide_border=true&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=CodeSnap&no-frame=true&no-bg=false&margin-w=4&row=1&hide_border=true" />
-            <img alt="GitHub Trophies" src="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=CodeSnap&hide_border=true&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
-          </picture>
-        <a/>
-    </td>
-    <td>
-        <a href="https://github.com/RanitManik/Bookify">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=Bookify&hide_border=true&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=Bookify&no-frame=true&no-bg=false&margin-w=4&row=1&hide_border=true" />
-            <img alt="GitHub Trophies" src="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=Bookify&hide_border=true&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
-          </picture>
-        <a/>
-    </td>
-  </tr>  
-</table>
-
 
 <h2 align="center">Tech Stack</h2>
 
