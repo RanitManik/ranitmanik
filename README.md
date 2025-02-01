@@ -54,14 +54,14 @@
 <h2 align="center">📌 Pinned Repositories</h2>
 
 <div width="100%" align="center">
-  <a href="https://github.com/RanitManik">
+  <a href="https://github.com/RanitManik/CodeSnap">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=CodeSnap&layout=compact&theme=radical&hide_border=true" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=CodeSnap&layout=compact" />
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=CodeSnap&layout=compact&theme=radical&hide_border=true" alt="Pinned Repo" />
     </picture>
   </a>
-  <a href="https://github.com/RanitManik">
+  <a href="https://github.com/RanitManik/Bookify">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=Bookify&layout=compact&theme=radical&hide_border=true" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=Bookify&layout=compact" />
