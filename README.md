@@ -4,7 +4,7 @@
 
 <h3>A Tech Enthusiast from India</h3>
 
-- 👨‍💼 Frontend Developer Intern at [**Vitco**](https://vitcoimpex.in/).  
+- 👨‍💼 Frontend Developer **(Full time)** at [**Vitco**](https://vitcoimpex.in/).  
 - 🏫 Pursuing a Bachelor's Degree in Computer Science at [**CEMK**](https://cemkolaghat.in/).  
 - 📚 Proficient in **Full Stack Development**.  
 - 🌐 Visit my [**Portfolio**](https://ranitmanik.online) to explore projects and achievements.
