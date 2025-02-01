@@ -13,74 +13,76 @@
 
 <hr>
 
-<h2 align="center">GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
-<table width="100%" align="center">
-  <tr>
-    <td width="50%">
-        <a href="https://github.com/RanitManik">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=RanitManik&hide_border=true&theme=radical&include_all_commits=true&count_private=true&show_icons=true" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=RanitManik&include_all_commits=true&count_private=true&show_icons=true&hide_border=true" />
-            <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RanitManik&hide_border=true&theme=radical&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-          </picture>
-        </a>
-    </td>
-    <td width="50%">
-        <a href="https://github.com/RanitManik">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-seven-psi.vercel.app?user=RanitManik&hide_border=true&theme=radical" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-seven-psi.vercel.app?user=RanitManik&hide_border=true" />
-            <img align="center" src="https://github-readme-streak-stats-seven-psi.vercel.app?user=RanitManik&hide_border=true&theme=radical" alt="Streak Stats" />
-          </picture>
-        </a>
-    </td>
-  </tr>
-</table>
+<div width="100%" align="center">
+  <a href="https://github.com/RanitManik">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=RanitManik&hide_border=true&theme=radical&include_all_commits=true&count_private=true&show_icons=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=RanitManik&include_all_commits=true&count_private=true&show_icons=true&hide_border=true" />
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RanitManik&hide_border=true&theme=radical&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+    </picture>
+  </a>
+  <a href="https://github.com/RanitManik">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-seven-psi.vercel.app?user=RanitManik&hide_border=true&theme=radical" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-seven-psi.vercel.app?user=RanitManik&hide_border=true" />
+      <img align="center" src="https://github-readme-streak-stats-seven-psi.vercel.app?user=RanitManik&hide_border=true&theme=radical" alt="Streak Stats" />
+    </picture>
+  </a>
+</div>
 
-<h2 align="center">Language Stats</h2>
+<h2 align="center">🔥 Language & Coding Activity</h2>
 
-<table width="100%" align="center">
-  </tr>
-  <tr>
-    <td width="40%"  align="center">
-        <a href="https://github.com/RanitManik">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitManik&layout=compact&hide_border=true&theme=radical&langs_count=10" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitManik&layout=compact&langs_count=10&hide_border=true" />
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitManik&layout=compact&hide_border=true&theme=radical&langs_count=10" alt="Top Languages" />
-          </picture>
-        </a>
-    </td>
-    <td width="60%"  align="center">
-        <a href="https://github.com/RanitManik">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=RanitManik&layout=compact&hide_border=true&theme=radical&langs_count=10&hide=other" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=RanitManik&layout=compact&langs_count=10&hide_border=true&hide=other" />
-            <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RanitManik&layout=compact&hide_border=true&theme=radical&langs_count=10&hide=other" alt="Wakatime Stats" />
-          </picture>
-        </a>
-      </td>
-  </tr>
-</table>
+<div width="100%" align="center">
+  <a href="https://github.com/RanitManik">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitManik&layout=compact&hide_border=true&theme=radical&langs_count=10" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitManik&layout=compact&langs_count=10&hide_border=true" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitManik&layout=compact&hide_border=true&theme=radical&langs_count=10" alt="Top Languages" />
+    </picture>
+  </a>
+  <a href="https://github.com/RanitManik">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=RanitManik&layout=compact&hide_border=true&theme=radical&langs_count=10&hide=other" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=RanitManik&layout=compact&langs_count=10&hide_border=true&hide=other" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RanitManik&layout=compact&hide_border=true&theme=radical&langs_count=10&hide=other" alt="Wakatime Stats" />
+    </picture>
+  </a>
+</div>
 
-<h2 align="center">GitHub Trophies</h2>
+<h2 align="center">📌 Pinned Repositories</h2>
 
-<table width="100%" align="center">
-  <tr>
-    <td align="center">
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=RanitManik&hide_border=true&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=RanitManik&no-frame=true&no-bg=false&margin-w=4&row=1&hide_border=true" />
-            <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=RanitManik&hide_border=true&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
-          </picture>
-        <a/>
-    </td>
-  </tr>
-</table>
+<div width="100%" align="center">
+  <a href="https://github.com/RanitManik">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=CodeSnap&layout=compact&hide_border=true&theme=radical" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=CodeSnap&layout=compact&hide_border=true" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=CodeSnap&layout=compact&hide_border=true&theme=radical" alt="Pinned Repo" />
+    </picture>
+  </a>
+  <a href="https://github.com/RanitManik">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=Bookify&layout=compact&hide_border=true&theme=radical" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=RanitManik&layout=compact&hide_border=true" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=Bookify&layout=compact&hide_border=true&theme=radical" alt="Pinned Repo" />
+    </picture>
+  </a>
+</div>
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<div width="100%" align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=RanitManik&hide_border=true&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=RanitManik&no-frame=true&no-bg=false&margin-w=4&row=1&hide_border=true" />
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=RanitManik&hide_border=true&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
+    </picture>
+  <a/>
+</div>
+
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
   <a href="https://skillicons.dev">
