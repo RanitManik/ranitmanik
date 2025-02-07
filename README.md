@@ -25,9 +25,9 @@
   </a>
   <a href="https://github.com/RanitManik">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="github-readme-streak-stats-ranit.vercel.app?user=RanitManik&theme=radical&hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="github-readme-streak-stats-ranit.vercel.app?user=RanitManik" />
-      <img width="400px" align="center" src="github-readme-streak-stats-ranit.vercel.app?user=RanitManik&theme=radical&hide_border=true" alt="Streak Stats" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-ranit.vercel.app?user=RanitManik&theme=radical&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-ranit.vercel.app?user=RanitManik" />
+      <img width="400px" align="center" src="https://github-readme-streak-stats-ranit.vercel.app?user=RanitManik&theme=radical&hide_border=true" alt="Streak Stats" />
     </picture>
   </a>
 </div>
