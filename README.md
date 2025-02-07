@@ -18,16 +18,16 @@
 <div width="100%" align="center">
   <a href="https://github.com/RanitManik">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=RanitManik&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=RanitManik&include_all_commits=true&count_private=true&show_icons=true" />
-      <img width="400px" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RanitManik&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api?username=RanitManik&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api?username=RanitManik&include_all_commits=true&count_private=true&show_icons=true" />
+      <img width="400px" align="center" src="https://github-readme-stats-ranit.vercel.app/api?username=RanitManik&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
     </picture>
   </a>
   <a href="https://github.com/RanitManik">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-seven-psi.vercel.app?user=RanitManik&theme=radical&hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-seven-psi.vercel.app?user=RanitManik" />
-      <img width="400px" align="center" src="https://github-readme-streak-stats-seven-psi.vercel.app?user=RanitManik&theme=radical&hide_border=true" alt="Streak Stats" />
+      <source media="(prefers-color-scheme: dark)" srcset="github-readme-streak-stats-ranit.vercel.app?user=RanitManik&theme=radical&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="github-readme-streak-stats-ranit.vercel.app?user=RanitManik" />
+      <img width="400px" align="center" src="github-readme-streak-stats-ranit.vercel.app?user=RanitManik&theme=radical&hide_border=true" alt="Streak Stats" />
     </picture>
   </a>
 </div>
@@ -37,16 +37,16 @@
 <div width="100%" align="center">
   <a href="https://github.com/RanitManik">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app//api/top-langs/?username=RanitManik&layout=compact&theme=radical&hide_border=true&langs_count=14" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app//api/top-langs/?username=RanitManik&layout=compact&langs_count=14" />
-      <img align="center" src="https://github-readme-stats-ranit.vercel.app//api/top-langs/?username=RanitManik&layout=compact&theme=radical&hide_border=true&langs_count=14" alt="Top Languages" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=RanitManik&layout=compact&theme=radical&hide_border=true&langs_count=14" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=RanitManik&layout=compact&langs_count=14" />
+      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=RanitManik&layout=compact&theme=radical&hide_border=true&langs_count=14" alt="Top Languages" />
     </picture>
   </a>
   <a href="https://github.com/RanitManik">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app//api/wakatime?username=RanitManik&layout=compact&theme=radical&hide_border=true&langs_count=14" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app//api/wakatime?username=RanitManik&layout=compact&langs_count=14" />
-      <img align="center" src="https://github-readme-stats-ranit.vercel.app//api/wakatime?username=RanitManik&layout=compact&theme=radical&hide_border=true&langs_count=14" alt="Wakatime Stats" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=RanitManik&layout=compact&theme=radical&hide_border=true&langs_count=14" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=RanitManik&layout=compact&langs_count=14" />
+      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=RanitManik&layout=compact&theme=radical&hide_border=true&langs_count=14" alt="Wakatime Stats" />
     </picture>
   </a>
 </div>
@@ -56,16 +56,16 @@
 <div width="100%" align="center">
   <a href="https://github.com/RanitManik/CodeSnap">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app//api/pin/?username=RanitManik&repo=CodeSnap&layout=compact&theme=radical&hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app//api/pin/?username=RanitManik&repo=CodeSnap&layout=compact" />
-      <img align="center" src="https://github-readme-stats-ranit.vercel.app//api/pin/?username=RanitManik&repo=CodeSnap&layout=compact&theme=radical&hide_border=true" alt="Pinned Repo" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/pin/?username=RanitManik&repo=CodeSnap&layout=compact&theme=radical&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/pin/?username=RanitManik&repo=CodeSnap&layout=compact" />
+      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/pin/?username=RanitManik&repo=CodeSnap&layout=compact&theme=radical&hide_border=true" alt="Pinned Repo" />
     </picture>
   </a>
   <a href="https://github.com/RanitManik/Bookify">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app//api/pin/?username=RanitManik&repo=Bookify&layout=compact&theme=radical&hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app//api/pin/?username=RanitManik&repo=Bookify&layout=compact" />
-      <img align="center" src="https://github-readme-stats-ranit.vercel.app//api/pin/?username=RanitManik&repo=Bookify&layout=compact&theme=radical&hide_border=true" alt="Pinned Repo" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/pin/?username=RanitManik&repo=Bookify&layout=compact&theme=radical&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/pin/?username=RanitManik&repo=Bookify&layout=compact" />
+      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/pin/?username=RanitManik&repo=Bookify&layout=compact&theme=radical&hide_border=true" alt="Pinned Repo" />
     </picture>
   </a>
 </div>
