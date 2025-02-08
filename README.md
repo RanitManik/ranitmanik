@@ -18,9 +18,9 @@
 <div width="100%" align="center">
  <a href="https://github.com/RanitManik">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=RanitManik&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=RanitManik&include_all_commits=true&count_private=true&show_icons=true" />
-      <img width="400px" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RanitManik&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api?username=RanitManik&theme=radical&hide_border=true&card_width=495&include_all_commits=true&count_private=true&show_icons=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api?username=RanitManik&include_all_commits=true&count_private=true&show_icons=true&card_width=495" />
+      <img width="400px" align="center" src="https://github-readme-stats-ranit.vercel.app/api?username=RanitManik&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&card_width=495" alt="GitHub Stats" />
     </picture>
   </a>
   <a href="https://github.com/RanitManik">
